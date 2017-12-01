@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tantanball</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_ball">Change Balls</string>
+    <string name="menu_rank">Rank</string>
+    <string name="menu_quit">Quit</string>
+    <color name="bgcolor">#333333</color>
+    <color name="menu_title_color">#AAAAAA</color>
+</resources>
